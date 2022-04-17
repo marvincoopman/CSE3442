@@ -1,2 +1,2 @@
 # CSE3442
-Embedded Systems Labs and Project Spring 2022
+Embedded Systems 1 Final Project for the EK-TM4C123G
