@@ -13,7 +13,7 @@ students to shine a RGB through the samples and finding the amount of refraction
 with a phototransistor. The refraction values were then evaluated to find a formula to estimate a
 sample’s pH.
 
-#UART Commands
+# UART Commands
 ## home
 Moves turret to reference position and stores home position
 
