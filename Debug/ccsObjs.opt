@@ -1,0 +1,1 @@
+"./IR_Receiver.obj" "./adc0.obj" "./clock.obj" "./main.obj" "./motor.obj" "./pH_Calculator.obj" "./rgb_led.obj" "./serial.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "./wait.obj" "../tm4c123gh6pm.cmd" -llibc.a 
